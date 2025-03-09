@@ -1,0 +1,179 @@
+{
+    "id": "bea4c3c4-ba27-44d3-92db-95b68f8b6fb2",
+    "room_name": "250212review",
+    "host_name": "하하",
+    "start_time": "2025-02-12T08:21:19.021Z",
+    "end_time": "2025-02-12T08:45:32.615Z",
+    "duration": 24.23,
+    "participants": [
+        "하하",
+        "김의찬",
+        "dlwldms",
+        "ㅈㅈㅎ",
+        "kwon"
+    ],
+    "messages": [
+        {
+            "type": "chat",
+            "user": "조현준",
+            "text": "나는 귀엽다",
+            "timestamp": "오후 5:22:51"
+        },
+        {
+            "type": "chat",
+            "user": "조현준",
+            "text": "제후 미스터빈 닮았다",
+            "timestamp": "오후 5:23:01"
+        },
+        {
+            "type": "chat",
+            "user": "김의찬",
+            "text": "하이",
+            "timestamp": "오후 5:23:14"
+        },
+        {
+            "type": "stt",
+            "user": "김의찬",
+            "text": "이거 왜 안 나와 진짜 말하는 거",
+            "timestamp": "오후 5:23:53"
+        },
+        {
+            "type": "chat",
+            "user": "전제후일걸?",
+            "text": "STT 진짜 말도 안되네",
+            "timestamp": "오후 5:24:00"
+        },
+        {
+            "type": "stt",
+            "user": "kwon",
+            "text": "녹음 시작",
+            "timestamp": "오후 5:24:09"
+        },
+        {
+            "type": "stt",
+            "user": "kwon",
+            "text": "아는 잘 안 된대",
+            "timestamp": "오후 5:24:17"
+        },
+        {
+            "type": "chat",
+            "user": "asdbn",
+            "text": "??",
+            "timestamp": "오후 5:24:20"
+        },
+        {
+            "type": "stt",
+            "user": "kwon",
+            "text": "끝났다",
+            "timestamp": "오후 5:24:37"
+        },
+        {
+            "type": "stt",
+            "user": "조현준",
+            "text": "마이크를 껐습니다",
+            "timestamp": "오후 5:25:08"
+        },
+        {
+            "type": "stt",
+            "user": "김의찬",
+            "text": "아니 근데 이게 신형 유튜브로",
+            "timestamp": "오후 5:25:58"
+        },
+        {
+            "type": "stt",
+            "user": "김의찬",
+            "text": "짱구 아빠",
+            "timestamp": "오후 5:26:09"
+        },
+        {
+            "type": "stt",
+            "user": "김의찬",
+            "text": "말해 봐",
+            "timestamp": "오후 5:27:11"
+        },
+        {
+            "type": "stt",
+            "user": "하하",
+            "text": "아 아 그러네",
+            "timestamp": "오후 5:27:34"
+        },
+        {
+            "type": "stt",
+            "user": "kwon",
+            "text": "이 마이크만 안 되나",
+            "timestamp": "오후 5:27:57"
+        },
+        {
+            "type": "stt",
+            "user": "하하",
+            "text": "왜 안 될까요",
+            "timestamp": "오후 5:28:05"
+        },
+        {
+            "type": "stt",
+            "user": "하하",
+            "text": "인식해 주라 됐다가 안 됐다 그래",
+            "timestamp": "오후 5:28:34"
+        },
+        {
+            "type": "stt",
+            "user": "조현준",
+            "text": "어차피",
+            "timestamp": "오후 5:32:03"
+        },
+        {
+            "type": "stt",
+            "user": "kwon",
+            "text": "됐습니다 됐습니다",
+            "timestamp": "오후 5:37:22"
+        },
+        {
+            "type": "stt",
+            "user": "김의찬",
+            "text": "작업하는 거 남은 거 있어",
+            "timestamp": "오후 5:38:00"
+        },
+        {
+            "type": "stt",
+            "user": "ㅈㅈㅎ",
+            "text": "하나 둘 하나 둘",
+            "timestamp": "오후 5:38:02"
+        },
+        {
+            "type": "stt",
+            "user": "김의찬",
+            "text": "목요일 마지막으로 올렸네",
+            "timestamp": "오후 5:38:48"
+        },
+        {
+            "type": "stt",
+            "user": "kwon",
+            "text": "형 갔을 때 올리려고 했는데 까먹었다",
+            "timestamp": "오후 5:38:56"
+        },
+        {
+            "type": "stt",
+            "user": "kwon",
+            "text": "일단 저는 기능으로 보여 그리고",
+            "timestamp": "오후 5:41:28"
+        },
+        {
+            "type": "stt",
+            "user": "하하",
+            "text": "AI 코드는 어느 정도 돌아가는 거 확인했고",
+            "timestamp": "오후 5:42:02"
+        },
+        {
+            "type": "chat",
+            "user": "하하",
+            "text": "고생했습니다아",
+            "timestamp": "오후 5:45:10"
+        },
+        {
+            "type": "stt",
+            "user": "ㅈㅈㅎ",
+            "text": "내일 가이드 나온다니까 다들",
+            "timestamp": "오후 5:45:23"
+        }
+    ]
+}

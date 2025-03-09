@@ -1,0 +1,44 @@
+{
+    "id": "9438d458-eb44-45b5-a07a-b1ffbb220948",
+    "room_name": "hello",
+    "host_name": "re",
+    "start_time": "2025-02-10T10:46:50.845Z",
+    "end_time": "2025-02-10T10:49:44.422Z",
+    "duration": 2.89,
+    "participants": [
+        "re",
+        "1111"
+    ],
+    "messages": [
+        {
+            "type": "chat",
+            "user": "re",
+            "text": "안녕하세요",
+            "timestamp": "오후 7:46:54"
+        },
+        {
+            "type": "chat",
+            "user": "1111",
+            "text": "ㅁㄴㅇㄹ",
+            "timestamp": "오후 7:46:55"
+        },
+        {
+            "type": "chat",
+            "user": "1111",
+            "text": "신기하네",
+            "timestamp": "오후 7:47:00"
+        },
+        {
+            "type": "stt",
+            "user": "re",
+            "text": "하나 둘",
+            "timestamp": "오후 7:48:11"
+        },
+        {
+            "type": "stt",
+            "user": "1111",
+            "text": "하나요",
+            "timestamp": "오후 7:48:37"
+        }
+    ]
+}

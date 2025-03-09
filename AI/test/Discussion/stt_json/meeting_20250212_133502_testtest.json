@@ -1,0 +1,25 @@
+{
+    "id": "86604e1e-d99e-4dcc-982f-53ea00e1d825",
+    "room_name": "testtest",
+    "host_name": "test",
+    "start_time": "2025-02-12T04:33:57.221Z",
+    "end_time": "2025-02-12T04:35:02.351Z",
+    "duration": 1.09,
+    "participants": [
+        "test"
+    ],
+    "messages": [
+        {
+            "type": "stt",
+            "user": "test",
+            "text": "왜 안 되지",
+            "timestamp": "오후 1:34:25"
+        },
+        {
+            "type": "stt",
+            "user": "test",
+            "text": "왜 되냐",
+            "timestamp": "오후 1:34:47"
+        }
+    ]
+}

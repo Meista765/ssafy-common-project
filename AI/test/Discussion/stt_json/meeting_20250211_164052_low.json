@@ -1,0 +1,31 @@
+{
+    "id": "8f144eac-3c28-422c-a4ba-70ba92fe0d76",
+    "room_name": "low",
+    "host_name": "test2",
+    "start_time": "2025-02-11T07:26:23.158Z",
+    "end_time": "2025-02-11T07:40:52.703Z",
+    "duration": 14.49,
+    "participants": [
+        "test2"
+    ],
+    "messages": [
+        {
+            "type": "stt",
+            "user": "test2",
+            "text": "하나 둘 아 체크를 해 보는 겁니다 아마",
+            "timestamp": "오후 4:28:16"
+        },
+        {
+            "type": "chat",
+            "user": "test2",
+            "text": "ㅇㅁㄴㅇㅁㄴ",
+            "timestamp": "오후 4:37:56"
+        },
+        {
+            "type": "stt",
+            "user": "test2",
+            "text": "테스트 메뉴 뭐예요 이거는 따로 제대로 안 넘어갔어 테스트 매뉴얼을 만들어야 된다는게 따로 양식이다",
+            "timestamp": "오후 4:38:20"
+        }
+    ]
+}

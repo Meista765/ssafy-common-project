@@ -1,0 +1,19 @@
+{
+    "id": "e35532ac-1a9c-4594-a1f3-15eae95479b2",
+    "room_name": "hello",
+    "host_name": "ㄱㅇㅊ",
+    "start_time": "2025-02-12T04:39:02.933Z",
+    "end_time": "2025-02-12T04:47:42.736Z",
+    "duration": 8.66,
+    "participants": [
+        "ㄱㅇㅊ",
+        "test1"
+    ],
+    "messages": [
+        {
+            "type": "system",
+            "text": "회의 중 메시지 없음",
+            "timestamp": "오후 1:47:42"
+        }
+    ]
+}

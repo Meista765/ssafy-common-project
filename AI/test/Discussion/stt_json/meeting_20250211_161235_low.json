@@ -1,0 +1,67 @@
+{
+    "id": "6b4c25ce-8fc1-4b8b-8cf1-300ce146cf2c",
+    "room_name": "low",
+    "host_name": "low",
+    "start_time": "2025-02-11T06:07:03.994Z",
+    "end_time": "2025-02-11T07:12:33.841Z",
+    "duration": 65.5,
+    "participants": [
+        "low"
+    ],
+    "messages": [
+        {
+            "type": "stt",
+            "user": "low",
+            "text": "거기서 올라가야 된다는데 여기서 신세계 하는 것도 뭔데 버스 타고 거기까지 하세요",
+            "timestamp": "오후 3:15:18"
+        },
+        {
+            "type": "stt",
+            "user": "low",
+            "text": "아니 안 맞는 친구들한테 보이려고 준비를 하면은 너무 좋겠어 다 됐고 앞에서는 그래도 비슷하지 않을까 김정은 닮았다는 얘기한 건데 진짜로",
+            "timestamp": "오후 3:41:46"
+        },
+        {
+            "type": "stt",
+            "user": "low",
+            "text": "돈 많이 벌어 온대",
+            "timestamp": "오후 3:43:01"
+        },
+        {
+            "type": "stt",
+            "user": "low",
+            "text": "배민 상품권 많이 받았으니까 시켜 먹어야겠다",
+            "timestamp": "오후 3:45:34"
+        },
+        {
+            "type": "stt",
+            "user": "low",
+            "text": "역시 미역국은 세 번째야",
+            "timestamp": "오후 3:46:00"
+        },
+        {
+            "type": "stt",
+            "user": "low",
+            "text": "프론트라이트 연결 부탁합니다 근데 일단 내가 지금 고치기 위해서 지금 이걸 우와",
+            "timestamp": "오후 3:48:06"
+        },
+        {
+            "type": "stt",
+            "user": "low",
+            "text": "드래곤 비밀 스테이크를 타는 차들이 많대 드래곤 비닐 스테이크 비밀 비밀 왜 모셔라",
+            "timestamp": "오후 3:54:41"
+        },
+        {
+            "type": "stt",
+            "user": "low",
+            "text": "안 그래도 요즘 위장이 너무 늘어 가지고 밥을 너무 많이 먹어서 고생했거든요",
+            "timestamp": "오후 3:56:22"
+        },
+        {
+            "type": "stt",
+            "user": "low",
+            "text": "여기 오래 걸려 버렸잖아",
+            "timestamp": "오후 4:08:58"
+        }
+    ]
+}

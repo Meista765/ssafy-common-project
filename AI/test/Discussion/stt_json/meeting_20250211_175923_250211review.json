@@ -1,0 +1,178 @@
+{
+    "id": "66630974-e57e-4f0f-ae69-4246bc8f14de",
+    "room_name": "250211review",
+    "host_name": "ㄱㅇㅊ",
+    "start_time": "2025-02-11T08:52:42.883Z",
+    "end_time": "2025-02-11T08:59:23.959Z",
+    "duration": 6.68,
+    "participants": [
+        "ㄱㅇㅊ",
+        "전제후",
+        "kwon",
+        "하하윤"
+    ],
+    "messages": [
+        {
+            "type": "stt",
+            "user": "ㄱㅇㅊ",
+            "text": "밑에다가",
+            "timestamp": "오후 5:53:16"
+        },
+        {
+            "type": "stt",
+            "user": "ㄱㅇㅊ",
+            "text": "하다 보니까 후루룩 지나가는 느낌이긴 한데",
+            "timestamp": "오후 5:53:54"
+        },
+        {
+            "type": "stt",
+            "user": "ㄱㅇㅊ",
+            "text": "이제 뭔가 좀 하나씩 합쳐지기 시작",
+            "timestamp": "오후 5:54:00"
+        },
+        {
+            "type": "stt",
+            "user": "ㄱㅇㅊ",
+            "text": "혹시라도 우리가",
+            "timestamp": "오후 5:54:39"
+        },
+        {
+            "type": "stt",
+            "user": "ㄱㅇㅊ",
+            "text": "한 군데 모아서",
+            "timestamp": "오후 5:55:25"
+        },
+        {
+            "type": "stt",
+            "user": "ㄱㅇㅊ",
+            "text": "아 이거 커밋 언제 나오지",
+            "timestamp": "오후 5:55:36"
+        },
+        {
+            "type": "stt",
+            "user": "ㄱㅇㅊ",
+            "text": "이름 뭔데 250-11 리뷰",
+            "timestamp": "오후 5:56:07"
+        },
+        {
+            "type": "stt",
+            "user": "전제후",
+            "text": "여기 장염이 몸살이 있대 어디랑 몸살이 메",
+            "timestamp": "오후 5:56:48"
+        },
+        {
+            "type": "stt",
+            "user": "전제후",
+            "text": "적어 놓은 걸로 아마 될 거 같은데",
+            "timestamp": "오후 5:58:03"
+        },
+        {
+            "type": "stt",
+            "user": "하하윤",
+            "text": "올라가긴 하네",
+            "timestamp": "오후 5:58:07"
+        },
+        {
+            "type": "stt",
+            "user": "kwon",
+            "text": "올라가긴 하는데",
+            "timestamp": "오후 5:58:08"
+        },
+        {
+            "type": "chat",
+            "user": "ㄱㅇㅊ",
+            "text": "채팅하나씩만",
+            "timestamp": "오후 5:58:08"
+        },
+        {
+            "type": "chat",
+            "user": "ㄱㅇㅊ",
+            "text": "테스트로",
+            "timestamp": "오후 5:58:09"
+        },
+        {
+            "type": "chat",
+            "user": "kwon",
+            "text": "ㅇㅎ",
+            "timestamp": "오후 5:58:12"
+        },
+        {
+            "type": "chat",
+            "user": "ㄱㅇㅊ",
+            "text": "부탁드립니다",
+            "timestamp": "오후 5:58:12"
+        },
+        {
+            "type": "stt",
+            "user": "하하윤",
+            "text": "마이크",
+            "timestamp": "오후 5:58:13"
+        },
+        {
+            "type": "chat",
+            "user": "kwon",
+            "text": "아아",
+            "timestamp": "오후 5:58:20"
+        },
+        {
+            "type": "chat",
+            "user": "조현준",
+            "text": "안녕하세요",
+            "timestamp": "오후 5:58:24"
+        },
+        {
+            "type": "chat",
+            "user": "kwon",
+            "text": "채팅 테스트",
+            "timestamp": "오후 5:58:24"
+        },
+        {
+            "type": "chat",
+            "user": "ㄱㅇㅊ",
+            "text": "보인다...",
+            "timestamp": "오후 5:58:24"
+        },
+        {
+            "type": "chat",
+            "user": "조현준",
+            "text": "신기하네",
+            "timestamp": "오후 5:58:27"
+        },
+        {
+            "type": "chat",
+            "user": "조현준",
+            "text": "어캐했누",
+            "timestamp": "오후 5:58:29"
+        },
+        {
+            "type": "chat",
+            "user": "조현준",
+            "text": "VAD는 잘 안 되는 느낌",
+            "timestamp": "오후 5:58:35"
+        },
+        {
+            "type": "chat",
+            "user": "ㄱㅇㅊ",
+            "text": "STT만 완벽하면 되는데",
+            "timestamp": "오후 5:58:36"
+        },
+        {
+            "type": "chat",
+            "user": "조현준",
+            "text": "약간 시작했을 때만 잠깐 반짝 하고",
+            "timestamp": "오후 5:58:51"
+        },
+        {
+            "type": "chat",
+            "user": "ㄱㅇㅊ",
+            "text": "나가기 눌러주시면 감사합니다",
+            "timestamp": "오후 5:58:53"
+        },
+        {
+            "type": "chat",
+            "user": "조현준",
+            "text": "네",
+            "timestamp": "오후 5:58:56"
+        }
+    ]
+}

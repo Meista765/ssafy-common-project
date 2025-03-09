@@ -1,0 +1,80 @@
+{
+    "id": "7da5a07f-fd9a-49be-b47b-7354099db1c5",
+    "room_name": "daily0210",
+    "host_name": "조현준",
+    "start_time": "2025-02-10T08:34:39.166Z",
+    "end_time": "2025-02-10T08:46:23.099Z",
+    "duration": 11.73,
+    "participants": [
+        "조현준",
+        "윤하하하하하..."
+    ],
+    "messages": [
+        {
+            "type": "stt",
+            "user": "김의찬",
+            "text": "주변 소음이 커 가지고 가까이 대고 말하던가 해야 될 거야 아마",
+            "timestamp": "오후 5:35:25"
+        },
+        {
+            "type": "stt",
+            "user": "김의찬",
+            "text": "주변 소음에 비해서 너무 작아서 그럴 수도 있고 아니면 F12 눌렀을 때 뭐가 떠",
+            "timestamp": "오후 5:37:38"
+        },
+        {
+            "type": "stt",
+            "user": "김의찬",
+            "text": "다른 사람들끼리 안 되는",
+            "timestamp": "오후 5:37:56"
+        },
+        {
+            "type": "stt",
+            "user": "김의찬",
+            "text": "채팅이 stt 기반",
+            "timestamp": "오후 5:39:41"
+        },
+        {
+            "type": "chat",
+            "user": "ㄴㅇㄹ호ㅓㅏ",
+            "text": "채팅채팅",
+            "timestamp": "오후 5:40:25"
+        },
+        {
+            "type": "chat",
+            "user": "김의찬",
+            "text": "다들 얼른 나으세요",
+            "timestamp": "오후 5:40:29"
+        },
+        {
+            "type": "chat",
+            "user": "ㄴㅇㄹ호ㅓㅏ",
+            "text": "오 된다된다",
+            "timestamp": "오후 5:40:33"
+        },
+        {
+            "type": "chat",
+            "user": "김의찬",
+            "text": "수고하셨습니다",
+            "timestamp": "오후 5:40:35"
+        },
+        {
+            "type": "chat",
+            "user": "ㄴㅇㄹ호ㅓㅏ",
+            "text": "짝짝",
+            "timestamp": "오후 5:40:37"
+        },
+        {
+            "type": "chat",
+            "user": "김의찬",
+            "text": "STT 왜 나만되",
+            "timestamp": "오후 5:40:42"
+        },
+        {
+            "type": "stt",
+            "user": "조현준",
+            "text": "아 아 하나 둘 하나 둘",
+            "timestamp": "오후 5:46:18"
+        }
+    ]
+}

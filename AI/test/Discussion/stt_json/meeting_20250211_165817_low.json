@@ -1,0 +1,31 @@
+{
+    "id": "e7c2de1a-6906-48fd-b821-06b8f15ab99a",
+    "room_name": "low",
+    "host_name": "test5",
+    "start_time": "2025-02-11T07:49:09.476Z",
+    "end_time": "2025-02-11T07:58:17.170Z",
+    "duration": 9.13,
+    "participants": [
+        "test5"
+    ],
+    "messages": [
+        {
+            "type": "stt",
+            "user": "test5",
+            "text": "억울하게 살해당한 피해자가 유령이 되어 자신의 죽음에 대한 진실을 파헤치고 자신을 죽인 범위를 찾아야 되는게 있어",
+            "timestamp": "오후 4:50:43"
+        },
+        {
+            "type": "stt",
+            "user": "test5",
+            "text": "뛰어난 실력과 긍정적인 성격으로 주변 사람들에게 사랑받는 어느 날 밤 자신의 아파트에서 칼에 찔려 살아야겠다",
+            "timestamp": "오후 4:51:03"
+        },
+        {
+            "type": "stt",
+            "user": "test5",
+            "text": "뭐야 이거 왜 이렇게 자세하게 나왔어 형이 자세하게 말해서",
+            "timestamp": "오후 4:53:45"
+        }
+    ]
+}

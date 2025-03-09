@@ -1,0 +1,84 @@
+services:
+  backend:
+    image: kwon0528/b106-backend:release
+    env_file:
+      - .env
+    container_name: prod-backend
+    environment:
+      DATABASE_URL: "mysql+pymysql://$DB_USER:$DB_PASSWD@$DB_HOST:$DB_PORT/$DB_NAME?charset=utf8"
+    ports:
+      - "8000:8000"
+    networks:
+      - app_network
+    restart: unless-stopped
+
+  frontend:
+    # build:
+    #   context: ./Frontend
+    #   dockerfile: Dockerfile.prod
+    image: kwon0528/b106-frontend:release
+    env_file:
+      - .env
+    container_name: prod-frontend
+    volumes:
+      - ./frontend_build:/app/frontend_build
+    ports:
+      - "5173:5173"
+    networks:
+      - app_network
+
+  nginx:
+    image: nginx:latest
+    container_name: nginx
+    restart: unless-stopped
+    volumes:
+      - ./frontend_build:/app/frontend_build
+      - ./nginx/conf.d:/etc/nginx/conf.d
+      - ./certbot/www:/var/www/certbot
+      - ./certbot/conf:/etc/letsencrypt
+    ports:
+      - "81:80"  # 변경된 포트
+      - "443:443"
+    depends_on:
+      - backend
+      - frontend
+    networks:
+      - app_network
+
+  # certbot:
+  #   image: certbot/certbot
+  #   container_name: certbot
+  #   volumes:
+  #     - ./certbot/www:/var/www/certbot
+  #     - ./certbot/conf:/etc/letsencrypt
+  #   entrypoint: >
+  #     /bin/sh -c "trap exit TERM; while :; do 
+  #     certbot certonly --webroot -w /var/www/certbot 
+  #     --email qja1998@naver.com 
+  #     --agree-tos --no-eff-email 
+  #     -d momoso106.duckdns.org;
+  #     sleep 12h & wait $${!}; 
+  #     certbot renew --webroot -w /var/www/certbot --quiet; 
+  #     done"
+  #   networks:
+  #     - app_network
+  
+  redis:
+    image: 'redis:latest'
+    ports:
+      - 6379:6379
+    volumes:
+      - ./redis/data:/data
+      - ./redis/conf/redis.conf:/usr/local/conf/redis.conf
+    restart: always
+    command: redis-server /usr/local/conf/redis.conf
+    networks:
+      - app_network
+
+
+volumes:
+  db_data:
+
+networks:
+  app_network:
+    driver: bridge
